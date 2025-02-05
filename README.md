@@ -19,3 +19,4 @@ The system uses a custom-trained YOLOv5 model to detect and classify different c
 *   **Python:** The primary programming language.
 *   **Ultralytics YOLOv5:** The object detection framework.
 *   **OpenCV (cv2):** For image and video processing.
+*   **Google Colab:** For running python code.
